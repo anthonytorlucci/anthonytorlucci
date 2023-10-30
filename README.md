@@ -1,4 +1,4 @@
-### Geophysicist / Software Developer / Deep Learning Enthusiast
+### Geophysicist |  Machine Learning Enthusiast | Computational Science Developer | Applied Science Practitioner
 
 - 🔭 I’m currently working on deep learning applications for seismic data processing and imaging using PyTorch.
 - 🌱 I’m currently learning c++ for computational mathematics using [torch c++ api](https://pytorch.org/cppdocs/).
