@@ -1,9 +1,9 @@
 ### Geophysicist |  Machine Learning Enthusiast | Computational Science Developer | Applied Science Practitioner
 
-- 🔭 I’m currently working on deep learning applications for seismic data processing and imaging using PyTorch.
-- 🌱 I’m currently learning c++ for computational mathematics using [torch c++ api](https://pytorch.org/cppdocs/).
+- 🔭 I’m currently working on deep learning architectures and solutions for geoscience applications using PyTorch.
+- 🌱 I’m currently exploring Rust for HPC and deep learning with [burn](https://burn.dev/).
 - 🤔 I’m looking for help with git version control and CI/CD.
-- ⚡ Fun fact: my favorite form of exercise is Muay Thai!
+- ⚡ I enjoy rock climbing, surfing, and generally being outdoors with my family!
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anthonytorlucci?theme=dark)
 
