@@ -1,6 +1,6 @@
-### Geophysicist |  Machine Learning Enthusiast | Computational Science Developer | Applied Science Practitioner
+### Geophysicist |  Deep Learning Enthusiast | Computational Science Developer | Applied Science Practitioner
 
-- 🔭 I’m currently working on deep learning architectures and solutions for geoscience applications using PyTorch.
+- 🔭 I’m currently working on deep learning architectures and solutions for geoscience applications.
 - 🌱 I’m currently exploring Rust for HPC and deep learning with [burn](https://burn.dev/).
 - 🤔 I’m looking for help with git version control and CI/CD.
 - ⚡ I enjoy rock climbing, surfing, and generally being outdoors with my family!
