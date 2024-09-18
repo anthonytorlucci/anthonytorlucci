@@ -5,9 +5,9 @@
 - 🤔 I’m looking for help with git version control and CI/CD.
 - ⚡ I enjoy rock climbing, surfing, and generally being outdoors with my family!
 
+<!---
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anthonytorlucci?theme=dark)
 
-<!--
 **anthonytorlucci/anthonytorlucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
