@@ -1,9 +1,9 @@
-### Geophysicist |  Deep Learning Enthusiast | Computational Science Developer | Applied Science Practitioner
+### Deep Learning and Computational Science Developer
+I'm a husband and father, first and foremost.
 
-- 🔭 I’m currently working on deep learning architectures and solutions for geoscience applications.
-- 🌱 I’m currently exploring Rust for HPC and deep learning with [burn](https://burn.dev/).
-- 🤔 I’m looking for help with git version control and CI/CD.
-- ⚡ I enjoy rock climbing, surfing, and generally being outdoors with my family!
+Any spare time I have, I really enjoy research in computational mathematics, applied physics, and artificial intellignece including deep learning and metheuristcs.
+
+I’m actively learning Rust and contributing to the deep learning framework [burn](https://burn.dev/).
 
 <!---
 ![Leetcode Stats](https://leetcard.jacoblin.cool/anthonytorlucci?theme=dark)
