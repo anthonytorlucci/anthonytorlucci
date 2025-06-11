@@ -1,7 +1,7 @@
 ### Deep Learning and Computational Science Developer
 I'm a husband and father, first and foremost.
 
-Any spare time I have, I really enjoy research in computational mathematics, applied physics, and artificial intellignece including deep learning and metheuristcs.
+Any spare time I have, I really enjoy research in computational and applied mathematics, and artificial intelligence including deep learning and metheuristics.
 
 I’m actively learning Rust and contributing to the deep learning framework [burn](https://burn.dev/).
 
