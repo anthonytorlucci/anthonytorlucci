@@ -1,23 +1,14 @@
-### Deep Learning and Computational Science Developer
-I'm a husband and father, first and foremost.
+### Maths and stuff
+I'm at the crossroads of computational geophysics and evolutionary deep reinforcement learning.
 
-Any spare time I have, I really enjoy research in computational and applied mathematics, and artificial intelligence including deep learning and metheuristics.
+I really enjoy research in: 
+- applied mathematics 
+  - computational geometry, 
+  - graph theory 
+- artificial intelligence 
+  - supervised deep learning
+  - reinforcement learning
+  - metheuristics
+  - evolutionary optimization algorithms
 
 I’m actively learning Rust and contributing to the deep learning framework [burn](https://burn.dev/).
-
-<!---
-![Leetcode Stats](https://leetcard.jacoblin.cool/anthonytorlucci?theme=dark)
-
-**anthonytorlucci/anthonytorlucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
