@@ -1,14 +1,9 @@
-### Maths and stuff
-I'm at the crossroads of computational geophysics and evolutionary deep reinforcement learning.
+Geophysicist by training, AI Researcher by inclination. I spent my career in seismic data processing and am now building toward a transition into research — applying machine learning and evolutionary computation to problems where the physics is hard and the data is noisy.
 
-I really enjoy research in: 
-- applied mathematics 
-  - computational geometry, 
-  - graph theory 
-- artificial intelligence 
-  - supervised deep learning
-  - reinforcement learning
-  - metheuristics
-  - evolutionary optimization algorithms
+**Current focus**: [rlevo](https://github.com/anthonytorlucci/rlevo) — an evolutionary deep reinforcement learning library in Rust, built on the [Burn](https://burn.dev/) framework. Designing type-safe, const-generic abstractions for hybrid RL and evolutionary agents.
 
-I’m actively learning Rust and contributing to the deep learning framework [burn](https://burn.dev/).
+**Other work**:
+- Full-stack Rust research tooling — knowledge graph exploration, FTS search, and graph navigation over SurrealDB with Leptos/WASM
+- The occasional harmonic analysis experiment for fun (music theory meets Leptos)
+
+**Stack**: Rust · Burn · Tokio · Leptos · SurrealDB
