@@ -1,4 +1,4 @@
-Geophysicist by training, AI Researcher by inclination. I spent my career in seismic data processing and am now building toward a transition into research — applying machine learning and evolutionary computation to problems where the physics is hard and the data is noisy.
+AI Researcher applying deep reinforcement learning and evolutionary computation to problems where the physics is hard and the data is noisy.
 
 **Current focus**: [rlevo](https://github.com/anthonytorlucci/rlevo) — an evolutionary deep reinforcement learning library in Rust, built on the [Burn](https://burn.dev/) framework. Designing type-safe, const-generic abstractions for hybrid RL and evolutionary agents.
 
